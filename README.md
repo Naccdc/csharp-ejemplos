@@ -1,4 +1,4 @@
-** Ejercicios de Programación en C# **
+** Ejercicios de Programación en lenguaje C# **
 ===============
 
 ## Temas C# Básico
