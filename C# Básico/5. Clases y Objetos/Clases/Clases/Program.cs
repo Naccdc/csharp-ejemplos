@@ -12,7 +12,9 @@ namespace Clases
     {
         static void Main(string[] args)
         {
-            // Creando un objeto de tipo Rectángulo
+            // Inicio del programa
+			
+			// Creando un objeto de tipo Rectángulo
             Rectangulo rect = new Rectangulo();
             rect.Base = 10;
             rect.Altura = 5;
