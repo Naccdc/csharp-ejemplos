@@ -16,7 +16,7 @@ namespace Clases
             Rectangulo rect = new Rectangulo();
             rect.Base = 10;
             rect.Altura = 5;
-
+            // Calculamos el area
             int area = rect.CalcularArea();
             Console.WriteLine("rect: {0} x {1}, area: {2}", rect.Base, rect.Altura, area);
 
